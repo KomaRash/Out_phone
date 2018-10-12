@@ -32,12 +32,12 @@ https://pocketpoints.com/ -Работает только на территори
 
 | Краткое описание | Mockup иллюстрация |
 |:---|:---|
-|Стартовая Страница|<img src="https://raw.githubusercontent.com/SlavkaGoldfinch/MoneyHelper/master/Mockups/Main.png">|
-|Расписание на сегодня|<img src="https://raw.githubusercontent.com/SlavkaGoldfinch/MoneyHelper/master/Mockups/Costs.png">|
-|Расписание на завтра|<img src="https://raw.githubusercontent.com/SlavkaGoldfinch/MoneyHelper/master/Mockups/Add.png">|
-|Статистика пользователя|<img src="https://raw.githubusercontent.com/SlavkaGoldfinch/MoneyHelper/master/Mockups/Setting.png">
-|Настройки|<img src="https://raw.githubusercontent.com/SlavkaGoldfinch/MoneyHelper/master/Mockups/Setting.png">
-
+|Стартовая страница|<img src="https://raw.githubusercontent.com/KomaRash/Out_phone/master/Documents/Start Worked.png">|
+|Статистика пользователя|<img src="https://raw.githubusercontent.com/KomaRash/Out_phone/master/Documents/stats.png">|
+|Расписание на сегодня|<img src="https://raw.githubusercontent.com/KomaRash/Out_phone/master/Documents/tonight.png">|
+|Расписание на завтра|<img src="https://raw.githubusercontent.com/KomaRash/Out_phone/master/Documents/tomorrow.png">|
+|Настройки|<img src="https://raw.githubusercontent.com/KomaRash/Out_phone/master/Documents/Settings.png">|
+            	
 
 ## 2.3 Характеристики пользователей
 Возрастных ограчений приложение не имеет, и подойдет для пользователей с минимальными навыками пользования платформой Android.
@@ -47,11 +47,11 @@ https://pocketpoints.com/ -Работает только на территори
 
 ### 2.3.2 Аудитория приложения
 
-Люди, которые постоянно тратят малые и большие суммы денег. Бизнесмены желающие полностью контролировать бюджет.
+Студенты вуза,желающие уменьшить время в телефоне на парах.
 
 ## 2.4. Предположения и зависимости
 - Приложение будет работать независимо от подключения к Интернету.
-- Приложение будет взаимодействовать с сайтом, чтобы узнавать курсы валют.
+- Приложение будет взаимодействовать с сайтом, чтобы обнавлять расписание.
 
 # 3 Системные требования
 
@@ -62,7 +62,7 @@ https://pocketpoints.com/ -Работает только на территори
 - Приложение должно показывать расписание на последующие дни.
 - Приложение должно уведомлять об начале пары.
 - Приложение должно показывать настроение виртуального питомца.
-- Приложение должно показывать измение настроения виртуального питомца.
+- Приложение должно уведомлять об измении настроения виртуального питомца.
 - Приложение должно отображать статистику  за некоторый период.
 ### 3.1.2 Ограничения и исключения
 - Приложение работает независимо от подключения к Интернету;
@@ -71,6 +71,6 @@ https://pocketpoints.com/ -Работает только на территори
 
 ### 3.2.1 Атрибуты качества
 - изменняемая цветовая гамма.
-
+- частичная локализация
 ### 3.2.2 Ограничения
 - Приложение должно поддерживаться смартфонами с Android версией не ниже 5.0 .
