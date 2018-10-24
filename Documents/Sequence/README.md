@@ -10,8 +10,9 @@
 
 
 <a name="start"></a>
-## 1 Запуск приложения
+## 1. Запуск приложения
 <img src="https://raw.githubusercontent.com/KomaRash/Out_phone/master/Documents/Sequence/Enter.png">
 
-## 2 Изменение группы
+<a name="group"></a>
+## 2. Изменение группы
 <img src="https://raw.githubusercontent.com/KomaRash/Out_phone/master/Documents/Sequence/updateMumberGroup.png">
