@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Project_TrTpo</string>
+    <string name="enterName">Введите Имя</string>
+    <string name="enterGroup">Введите номер группы</string>
+    <string name="Enter">Вперед</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="petname">Введите имя питомца:</string>
+    <string name="spotti">Spotti</string>
+    <string name="persik">persik</string>
+    <string name="renschu">Renschu</string>
+    <string name="project_trtpo">Project TrTpo</string>
+    <string name="Startlesson">Начало пары</string>
+    <string name="NameLesson">Название предмета</string>
+    <string name="Schedule_DB_head"></string>
+
+</resources>

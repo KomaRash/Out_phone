@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SupportClass.StatsActivity">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp">
+
+        <ImageButton
+            android:id="@+id/Back_Table"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_margin="10dp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Статистика пользователя"
+            android:textSize="11pt"
+            android:layout_marginTop="7dp"/>
+    </LinearLayout>
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginVertical="5dp"
+       android:layout_marginHorizontal="7dp"
+       android:orientation="horizontal">
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="match_parent"
+           android:text="Имя: "
+           android:textSize="11pt"/>
+       <TextView
+       android:id="@+id/InfoName"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:textSize="10pt"/></LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="7dp"
+        android:layout_marginHorizontal="7dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Группа: "
+            android:textSize="11pt"/>
+        <TextView
+        android:id="@+id/InfoGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="5dp"
+        android:text=""
+        android:textSize="10pt"/>
+    </LinearLayout>
+    <TextView
+        android:id="@+id/InfoPets"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="5dp"
+        android:text=""
+        android:textSize="10pt"/>
+
+</LinearLayout>
+</android.support.constraint.ConstraintLayout>
